@@ -166,4 +166,28 @@ class RoundTower(residents: Int,
     }
 }
 
-
+/**
+ * In this codelab you learned how to:
+ *
+ * *Create a class herarchy, that is a tree of classes where children inherit functionality
+ * from parent classes. Properties and functions are inherited by subclasses
+ *
+ * *Create an abstract class where some functionality is left to be implemented
+ * by its subclasses. An abstract class can therefore not be instantiated
+ *
+ * * Create subclasses of an abstract class
+ *
+ * *Use override keyword to override properties and functions in subclass
+ *
+ * *Use the super keyword to reference functions and properies in the parent class
+ *
+ * *Make a class open so that it can be subclassed
+ * 
+ * *Make a property private, so it can only be used inside the class
+ *
+ * *Use the with construct to make multiple calls on the same object instance
+ *
+ * *import functionality form the kotlin.math library
+ *
+ *
+ * */
